@@ -67,3 +67,12 @@ By completing this bootcamp, I gained experience in:
 - Large Language Models (LLMs)
 - Cloud Deployment (AWS, Azure, GCP)
 
+## 📂 Repository Structure
+
+AIML-Bootcamp/
+│
+├── Assignments/
+├── Web-Scraping/
+├── Problem-Scoping/
+├── SQLite-Database/
+└── README.md
