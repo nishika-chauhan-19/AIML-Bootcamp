@@ -1,74 +1,62 @@
-🤖 AI & Machine Learning Bootcamp
+<div align="center">
 
-Welcome to my AI & Machine Learning Bootcamp repository! This repository showcases my learning journey through Artificial Intelligence, Machine Learning, Data Engineering, Data Analysis, and MLOps. It contains notes, assignments, hands-on exercises, projects, and a capstone project completed during the bootcamp.
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=700&size=38&pause=1000&color=8B5CF6&center=true&vCenter=true&width=850&lines=Hi+👋,+I'm+Nishika+Chauhan;AI+%26+Machine+Learning+Enthusiast;Python+Developer+%7C+Data+Science+Learner;Always+Learning+Something+New+🚀" />
 
-📚 What You'll Find Here
+<h1>🤖 AI & Machine Learning Bootcamp</h1>
 
-- AI & Machine Learning Fundamentals
-- Data Collection and Engineering
-- Data Cleaning and Preprocessing
-- Exploratory Data Analysis (EDA)
-- Supervised & Unsupervised Learning
-- Advanced Machine Learning Techniques
-- Model Deployment & MLOps
-- End-to-End Capstone Projects
+<h3>Learning • Building • Exploring • Growing</h3>
 
-🛠️ Technologies & Tools
+<img src="https://komarev.com/ghpvc/?username=nishika-chauhan-19&label=Repository+Views&color=8B5CF6&style=flat"/>
 
-- Python
-- NumPy
-- Pandas
-- Scikit-Learn
-- Matplotlib
-- Seaborn
-- XGBoost
-- SQL
-- Flask
-- FastAPI
-- MLflow
-- Git & GitHub
+</div>
 
-📂 Repository Structure
+---
 
-AI-ML-Bootcamp/
-│
-├── 01_Introduction_to_AI/
-├── 02_Data_Collection_and_Engineering/
-├── 03_Data_Cleaning_and_Preprocessing/
-├── 04_Exploratory_Data_Analysis/
-├── 05_Machine_Learning_Fundamentals/
-├── 06_Advanced_Machine_Learning/
-├── 07_Model_Deployment_and_MLOps/
-├── 08_Capstone_Project/
-│
-├── datasets/
-├── notebooks/
-├── projects/
-└── README.md
+# 📖 About This Repository
 
-🎯 Learning Outcomes
+Welcome to my **AI & Machine Learning Bootcamp** repository!
 
-By completing this bootcamp, I gained experience in:
+This repository showcases my learning journey through **Artificial Intelligence, Machine Learning, Data Analysis, Data Engineering, SQL, Web Scraping, APIs, and MLOps**. It contains assignments, notes, practical exercises, projects, and hands-on implementations completed during the bootcamp.
 
-- Building machine learning pipelines
-- Data preprocessing and feature engineering
-- Exploratory data analysis
-- Training and evaluating ML models
-- Hyperparameter tuning and optimization
-- Model deployment using APIs
-- Version control and MLOps fundamentals
+---
 
-🚀 Future Learning Goals
+# 📚 What You'll Find
 
-- Deep Learning
-- Computer Vision
-- Natural Language Processing (NLP)
-- Generative AI
-- Large Language Models (LLMs)
-- Cloud Deployment (AWS, Azure, GCP)
+- 🤖 Artificial Intelligence Fundamentals
+- 📊 Data Analysis & Visualization
+- 🧹 Data Cleaning & Preprocessing
+- 🌐 Web Scraping
+- 🗄️ SQL & Database Management
+- 📈 Exploratory Data Analysis (EDA)
+- 🧠 Machine Learning Fundamentals
+- 🚀 Advanced Machine Learning
+- ⚙️ Model Deployment & APIs
+- 🔄 MLOps Fundamentals
+- 💡 Real-World Projects
 
-## 📂 Repository Structure
+---
 
+# 🛠️ Skills & Tools
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=python,c,cpp,java,mysql,sqlite,flask,fastapi,git,github,vscode" />
+
+<br><br>
+
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+<img src="https://img.shields.io/badge/BeautifulSoup-Web%20Scraping-4B8BBE?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/MLflow-MLOps-0194E2?style=for-the-badge&logo=mlflow&logoColor=white"/>
+<img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white"/>
+
+</p>
+
+---
+
+# 📂 Repository Structure
+
+```text
 AIML-Bootcamp/
 │
 ├── Assignments/
@@ -76,3 +64,42 @@ AIML-Bootcamp/
 ├── Problem-Scoping/
 ├── SQLite-Database/
 └── README.md
+```
+
+---
+
+# 🎯 Learning Outcomes
+
+- ✅ Building Machine Learning Pipelines
+- ✅ Data Cleaning & Preprocessing
+- ✅ Feature Engineering
+- ✅ Exploratory Data Analysis
+- ✅ SQL Database Operations
+- ✅ Web Scraping with Python
+- ✅ API Integration
+- ✅ Model Training & Evaluation
+- ✅ Flask & FastAPI Basics
+- ✅ Git & GitHub Workflow
+- ✅ MLOps Fundamentals
+
+---
+
+# 🚀 Future Learning Goals
+
+- 🧠 Deep Learning
+- 👁️ Computer Vision
+- 💬 Natural Language Processing (NLP)
+- 🤖 Large Language Models (LLMs)
+- ✨ Generative AI
+- ☁️ Cloud Deployment (AWS • Azure • GCP)
+- 🐳 Docker
+- ☸️ Kubernetes
+
+---
+
+<div align="center">
+
+### 🌟 Thanks for visiting my repository!
+
+
+</div>
